@@ -1,0 +1,50 @@
+<style type="text/css">
+bodY{
+  background-IMAGE: URL("d.jpg")
+}
+h1 {
+  color: blue;
+  text-align: center;text-shadow: 2px 2px green;
+}
+
+p {
+  font-family: impact;
+  font-size: 20px;
+}
+ul#align{
+	min-width: 900px;
+	list-style: inline;
+	padding-center: 10px;
+	}
+	ul#align li {
+		display: inline;
+	}
+ul {
+  list-style-type: none;
+  margin: 100px;
+  padding-right: 350px;
+padding-left: 450px;
+  overflow: hidden;
+  background-color: none;
+}
+
+li {
+  float: inline;
+}
+
+li a {
+  display: inline;
+  color: green;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lightgreen; text-decoration: underline;
+}
+p#sr{font-size:45px;font-family:"times new roman";}
+p#rs{font-size:20px;font-family:"roboto";margin-right:100px;paddding-left:60px;}
+p#r{font-size:15px;font-family:"roboto";margin-right:100px;paddding-left:60px;}
+p.cen{font-size:20px;font-family:"roboto";text-align:center;margin-right:100px;paddding-left:60px;}
+</style>
